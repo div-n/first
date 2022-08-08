@@ -3,5 +3,7 @@ Test
 - Learn 1
  - Sub Learn 1.1
 - Learn 2
+ - Sub Learn 2.1
+ - Sub Learn 2.2
 - Learn 3
 - Learn 4
