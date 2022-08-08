@@ -4,6 +4,8 @@ Test
  - Sub Learn 1.1
  - Sub Learn 1.2
 - Learn 2
+ - Sub Learn 2.1
+ - Sub Learn 2.2
  - Sub Learn 2.3
 - Learn 3
 - Learn 4
